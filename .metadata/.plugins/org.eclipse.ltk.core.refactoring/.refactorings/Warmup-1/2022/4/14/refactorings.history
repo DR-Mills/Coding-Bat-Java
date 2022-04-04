@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;codebat&apos; to &apos;warmup1&apos;&#x0D;&#x0A;- Original project: &apos;Warmup-1&apos;&#x0D;&#x0A;- Original element: &apos;Warmup-1/src/codebat&apos;&#x0D;&#x0A;- Renamed element: &apos;Warmup-1/src/warmup1&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;codebat&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;codebat" name="warmup1" qualified="false" references="true" stamp="1648865092373" textual="false" version="1.0"/>
+</session>

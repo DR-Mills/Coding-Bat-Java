@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+D:\Dustin\CodeBat\.metadata\.plugins\org.eclipse.jdt.core
+3353884645.index
+1591830111.index
+4044757637.index
+1865797976.index
